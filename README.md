@@ -4,6 +4,10 @@ A single LangChain-based agent that classifies the priority (High / Medium / Low
 of a task description, exposed via a FastAPI endpoint, with internal state
 tracking and a pytest suite covering agent, state, and endpoint behaviour.
 
+# View the application on web
+
+# View the video demo
+
 ## Architecture at a glance
 
 ```
@@ -84,8 +88,4 @@ the test suite).
   (Anthropic) assistance; document your own prompt refinements, failure
   cases, and evaluation as required by the assessment brief.
 
-## Bonus extension ideas (not implemented by default)
 
-- Persist `AgentState` to SQLite/JSON so history survives restarts.
-- Add a second tool (e.g. deadline-proximity lookup) for a multi-tool agent.
-- Add a `/api/agent/weekly_summary` endpoint as a second agent.
