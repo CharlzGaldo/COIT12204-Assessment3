@@ -4,7 +4,8 @@ A single LangChain-based agent that classifies the priority (High / Medium / Low
 of a task description, exposed via a FastAPI endpoint, with internal state
 tracking and a pytest suite covering agent, state, and endpoint behaviour.
 
-# View the application on web
+# View the application on web (Recommended)
+https://priority-agent-458025859336.australia-southeast1.run.app
 
 # View the video demo
 
