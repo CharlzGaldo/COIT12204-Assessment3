@@ -8,6 +8,7 @@ tracking and a pytest suite covering agent, state, and endpoint behaviour.
 https://priority-agent-458025859336.australia-southeast1.run.app
 
 # View the video demo
+https://youtu.be/sftX_tjfV8Q
 
 # Self-Deploy 
 Read the Deploy.md file
