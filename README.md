@@ -9,6 +9,9 @@ https://priority-agent-458025859336.australia-southeast1.run.app
 
 # View the video demo
 
+# Self-Deploy 
+Read the Deploy.md file
+
 ## Architecture at a glance
 
 ```
